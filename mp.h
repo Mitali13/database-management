@@ -27,10 +27,18 @@ typedef struct goods2 {
 
 
 int ManagerMenu();
+
 void CashierMenu();
+
 void GoodsEntry();
+
 void GoodsListDisplay();
+
 void EditGoods();
+
 void DeleteGoods();
+
 void Billing();
+
 void TotalSalesDisplay();
+
